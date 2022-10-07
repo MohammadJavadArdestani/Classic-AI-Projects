@@ -41,4 +41,5 @@ To access the code and more details, click [Here](https://github.com/MohammadJav
 Here I used A*, IDS, and BFS to sort colored cards in ascending order.
 In the initial state, we have different unsorted decks of cards (they could have different colors), and as output, you get sorted cards with the same color in each deck.
 You can run the same test case on each algorithm to understand the great effect of the heuristic function on decreasing computation time by creating fewer nodes than BFS and IDS.<br>
+
 To access the code and more details, click [Here](https://github.com/MohammadJavadArdestani/sort-colored-cards-with-AI-search-algorithms).
